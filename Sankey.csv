@@ -1,0 +1,82 @@
+﻿Proxy,,Key uncertainty 1?,Value: key uncertainty 1?  Select one option per row. [How uncertain is your key area?],,Value: key uncertainty 1?  Select one option per row. [How important is your key area?],,Tag1,Tag2,Oop
+Fossils,Key uncertainty 3?,absolute dating of fossils,Moderate,3,Very,5,Chronostrat,,14
+ClimaticallySensitiveLithologies,Key uncertainty 1?,Chronostratigraphy,Quite,4,Very,5,Chronostrat,,14
+Igneous/MetamorphicLithologies,Key uncertainty 1?,Chronostratigraphy,Quite,4,Very,5,Chronostrat,,14
+PalaeoMagnetics,Key uncertainty 1?,Chronostratigraphy,Quite,4,Very,5,Chronostrat,,14
+Fossils,Key uncertainty 1?,Chronostratigraphy,Quite,4,Very,5,Chronostrat,,14
+ClimaticallySensitiveLithologies,Key uncertainty 1?,Dating of proxies,Quite,4,Very,5,Chronostrat,,14
+Igneous/MetamorphicLithologies,Key uncertainty 1?,Dating of proxies,Quite,4,Very,5,Chronostrat,,14
+PalaeoMagnetics,Key uncertainty 1?,Dating of proxies,Quite,4,Very,5,Chronostrat,,14
+Fossils,Key uncertainty 1?,Dating of proxies,Quite,4,Very,5,Chronostrat,,14
+ClimaticallySensitiveLithologies,Key uncertainty 3?,detailed sedimentology,Quite,4,Very,5,Chronostrat,,14
+Fossils,Key uncertainty 13,global biostratigraphy,Quite,4,Quite,4,Chronostrat,Taxonomy,14
+Igneous/MetamorphicLithologies,Key uncertainty 4?,global vs. regional stages,Moderate,3,Quite,4,Chronostrat,,14
+ClimaticallySensitiveLithologies,Key uncertainty 4?,global vs. regional stages,Moderate,3,Quite,4,Chronostrat,,14
+Fossils,Key uncertainty 4?,global vs. regional stages,Moderate,3,Quite,4,Chronostrat,,14
+Fossils,Key uncertainty 3?,Sequence stratigraphy,Very,5,Very,5,Chronostrat,,14
+Fossils,Key uncertainty 3?,Temporal resolution,Quite,4,Moderate,3,Chronostrat,TemporalResoltuion,14
+ClimaticallySensitiveLithologies,Key uncertainty 3?,Temporal resolution,Quite,4,Moderate,3,Chronostrat,TemporalResoltuion,14
+Igneous/MetamorphicLithologies,Key uncertainty 3?,Temporal resolution,Quite,4,Moderate,3,Chronostrat,TemporalResoltuion,14
+PalaeoMagnetics,Key uncertainty 3?,Temporal resolution,Quite,4,Moderate,3,Chronostrat,TemporalResoltuion,14
+ClimaticallySensitiveLithologies,Key uncertainty 1?,formation conditions,Moderate,3,Very,5,FaciesFormation,,4
+Fossils,Key uncertainty 8,Interpretation of environmental proxies,Quite,4,Quite,4,FaciesFormation,,4
+ClimaticallySensitiveLithologies,Key uncertainty 8,Interpretation of environmental proxies,Quite,4,Quite,4,FaciesFormation,,4
+Fossils,Key uncertainty 3?,Palaeoclimate indicators,Quite,4,Moderate,3,FaciesFormation,,4
+ClimaticallySensitiveLithologies,Key uncertainty 4,paleoclimatic indicators,Quite,4,Very,5,FaciesFormation,,4
+Fossils,Key uncertainty 4?,Patchy Cambrian geological record,Quite,4,Quite,4,FRStructure,Sampling,1
+ClimaticallySensitiveLithologies,Key uncertainty 4?,Patchy Cambrian geological record,Quite,4,Quite,4,FRStructure,Sampling,1
+Igneous/MetamorphicLithologies,Key uncertainty 4?,Patchy Cambrian geological record,Quite,4,Quite,4,FRStructure,Sampling,1
+PalaeoMagnetics,Key uncertainty 1?,Ediacaran- Cambrian Palaeomagnetic Latitude Indicators,Very,5,Very,5,Lat-long,PalaeoMag,3
+Igneous/MetamorphicLithologies,Key uncertainty 3?,Paleolatitude,Quite,4,Very,5,Lat-long,,3
+ClimaticallySensitiveLithologies,Key uncertainty 3?,Paleolatitude,Quite,4,Very,5,Lat-long,,3
+Fossils,Key uncertainty 3?,Paleolatitude,Quite,4,Very,5,Lat-long,,3
+PalaeoMagnetics,Key uncertainty 3?,Paleolatitude,Quite,4,Very,5,Lat-long,,3
+Fossils,Key uncertainty 1?,Paleolongitude,Quite,4,Quite,4,Lat-long,,3
+PalaeoMagnetics,Key uncertainty 1?,Paleolongitude,Quite,4,Quite,4,Lat-long,,3
+Igneous/MetamorphicLithologies,Key uncertainty 1?,Paleolongitude,Quite,4,Quite,4,Lat-long,,3
+ClimaticallySensitiveLithologies,Key uncertainty 1?,Paleolongitude,Quite,4,Quite,4,Lat-long,,3
+Igneous/MetamorphicLithologies,FreeText,Earth parameters,Quite,4,Very,5,Mantle,,2
+Igneous/MetamorphicLithologies,FreeText,Mantle strucures,Very,5,Quite,4,Mantle,,2
+Fossils,Key uncertainty 3?,Dispersal mechanism of fossil taxa,Very,5,Not much,2,PalaeoBioG,,7
+Fossils,Key uncertainty 9,Faunal Similarity Assumptions,Very,5,Quite,4,PalaeoBioG,,7
+Fossils,Key uncertainty 14,Fossil data,Very,5,Very,5,PalaeoBioG,Taxonomy,7
+Fossils,Key uncertainty 1?,Fossil distributions and taxonomy,Quite,4,Very,5,PalaeoBioG,Taxonomy,7
+Fossils,Key uncertainty 15,Global correlation,Quite,4,Very,5,PalaeoBioG,Taxonomy,7
+Fossils,Key uncertainty 3?,paleobiogeography,Quite,4,Moderate,3,PalaeoBioG,,7
+Fossils,Key uncertainty 11,Varying biogeographic signal,Quite,4,Quite,4,PalaeoBioG,,7
+Fossils,Key uncertainty 5,Palaeogeography,Moderate,3,Very,5,PalaeoGeography,,4
+Igneous/MetamorphicLithologies,Key uncertainty 5,Palaeogeography,Moderate,3,Very,5,PalaeoGeography,,4
+ClimaticallySensitiveLithologies,Key uncertainty 5,Palaeogeography,Moderate,3,Very,5,PalaeoGeography,,4
+PalaeoMagnetics,Key uncertainty 5,Palaeogeography,Moderate,3,Very,5,PalaeoGeography,,4
+Igneous/MetamorphicLithologies,Key uncertainty 4?,Regional basin reconstructions,Quite,4,Moderate,3,PalaeoGeography,,4
+ClimaticallySensitiveLithologies,Key uncertainty 4?,Regional basin reconstructions,Quite,4,Moderate,3,PalaeoGeography,,4
+PalaeoMagnetics,Key uncertainty 1?,paleomagnetic constraints,Very,5,Very,5,PalaeoMag,,5
+Igneous/MetamorphicLithologies,Key uncertainty 7,Tectonic plate boundary configurations,Moderate,3,Very,5,PlateBoundary,,1
+ClimaticallySensitiveLithologies,Key uncertainty 7,Tectonic plate boundary configurations,Moderate,3,Very,5,PlateBoundary,,1
+Fossils,Key uncertainty 4?,Incomplete databases,Very,5,Very,5,Sampling,,6
+Igneous/MetamorphicLithologies,Key uncertainty 4?,Incomplete databases,Very,5,Very,5,Sampling,,6
+ClimaticallySensitiveLithologies,Key uncertainty 4?,Incomplete databases,Very,5,Very,5,Sampling,,6
+PalaeoMagnetics,Key uncertainty 4?,Incomplete databases,Very,5,Very,5,Sampling,,6
+Fossils,Key uncertainty 4?,shared datasets,Moderate,3,Moderate,3,Sampling,,6
+PalaeoMagnetics,Key uncertainty 4?,shared datasets,Moderate,3,Moderate,3,Sampling,,6
+Igneous/MetamorphicLithologies,Key uncertainty 4?,shared datasets,Moderate,3,Moderate,3,Sampling,,6
+ClimaticallySensitiveLithologies,Key uncertainty 4?,shared datasets,Moderate,3,Moderate,3,Sampling,,6
+Fossils,Key uncertainty 1?,uneven sampling,Very,5,Quite,4,Sampling,,6
+PalaeoMagnetics,Key uncertainty 1?,uneven sampling,Very,5,Quite,4,Sampling,,6
+Igneous/MetamorphicLithologies,Key uncertainty 1?,uneven sampling,Very,5,Quite,4,Sampling,,6
+ClimaticallySensitiveLithologies,Key uncertainty 1?,uneven sampling,Very,5,Quite,4,Sampling,,6
+ClimaticallySensitiveLithologies,FreeText,Sea level,Moderate,3,Quite,4,SeaLevel,PalaeoGeography,4
+Fossils,FreeText,Sea level,Moderate,3,Quite,4,SeaLevel,PalaeoGeography,4
+Fossils,FreeText,preservation,Very,5,Moderate,3,Taphonomy,,2
+Fossils,Key uncertainty 3?,Taphonomy,Moderate,3,Moderate,3,Taphonomy,FaciesFormation,2
+Fossils,Key uncertainty 4?,Low taxonomic resolution,Quite,4,Moderate,3,Taxonomy,PalaeoBioG,3
+Fossils,Key uncertainty 3,Taxonomy,Quite,4,Very,5,Taxonomy,,3
+Fossils,Key uncertainty 1?,Taxonomy of key groups,Moderate,3,Quite,4,Taxonomy,,3
+Igneous/MetamorphicLithologies,Key uncertainty 4?,Regional tectonic affinity,Very,5,Quite,4,TectonicAffinity,,1
+PalaeoMagnetics,Key uncertainty 4?,True Polar Wander,Very,5,Very,5,TPW,PalaeoMag,1
+Igneous/MetamorphicLithologies,Key uncertainty 3?,Biases of the rock and fossil records (true absences?),Very,5,Very,5,TrueAbsense,,2
+ClimaticallySensitiveLithologies,Key uncertainty 3?,Biases of the rock and fossil records (true absences?),Very,5,Very,5,TrueAbsense,,2
+Fossils,Key uncertainty 3?,Biases of the rock and fossil records (true absences?),Very,5,Very,5,TrueAbsense,,2
+PalaeoMagnetics,Key uncertainty 3?,Biases of the rock and fossil records (true absences?),Very,5,Very,5,TrueAbsense,,2
+Igneous/MetamorphicLithologies,Key uncertainty 6,Non-uniqueness of single proxy zircon barcoding,Quite,4,Quite,4,ZirconBarcoding,,1
+Igneous/MetamorphicLithologies,Key uncertainty 1?,Detrital zircon - distance between crystallisation location and depocentre,Quite,4,Quite,4,ZirconTransport,,1
